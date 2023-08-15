@@ -1,2 +1,3 @@
 #!/bin/bash
+export PYCODE=custom.py
 python3 $PYCODE
