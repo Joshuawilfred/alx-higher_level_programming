@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//get some films :)
+
 const request = require('request');
 const episode = 'https://swapi-api.hbtn.io/api/films/' + process.argv[2];
 
